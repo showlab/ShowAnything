@@ -40,6 +40,11 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 --- --- - Original--- --- --- A soldier is dancing - --- ---Donald Trump is dancing--- --- Iron Man is dancing
 
 
+### Video interactive fashion-edit with point click
+<img src="./assets/video/seg_02.png" width="200" alt=“original”/>  <img src="./assets/video/seg_02_result.png" width="200" />  <img src="./assets/video/A man is dancing in jeans.gif" width="200"/> <img src="./assets/video/A man is dancing in shorts.gif" width="200"/>
+--- --- - Original--- --- --- With Mask - --- ---A man is dancing in jeans--- --- A man is dancing in shorts
+
+
 
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.

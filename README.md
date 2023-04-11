@@ -46,6 +46,9 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 
 
 
+![overview](./assets/video/A man is dancing in jeans.gif) A man is dancing in jeans. </div>
+
+
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.
 ```BibTex

@@ -36,8 +36,6 @@ See the [here](./ImageEidt). Using points to edit and control. Enjoy it!
 ## Video
 
 ### Edit with point click
-<img src="./assets/video/original.gif" width="200" alt=“original”/>  <img src="./assets/video/A soldier is dancing_crop.gif" width="200" />  <img src="./assets/video/Donald Trump is dancing_crop.gif" width="200"/> <img src="./assets/video/Iron Man is dancing_crop.gif" width="200"/>
---- --- - Original--- --- --- A soldier is dancing - --- ---Donald Trump is dancing--- --- Iron Man is dancing
 
 
 <table class="center">
@@ -74,14 +72,14 @@ See the [here](./ImageEidt). Using points to edit and control. Enjoy it!
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="./assets/video/seg_02.png"></td>
-  <td><img src="./assets/video/seg_02_result.png"></td>      
+  <td><img src="./assets/video/seg_02_result.png"></td>
+  <td><img src="./assets/video/A man is dancing in skirt and wearing black stockings.gif"></td>      
   <td><img src="./assets/video/A man is dancing in jeans.gif"></td>
   <td><img src="./assets/video/A man is dancing in shorts.gif"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"Input Video with point"</td>
-  <td width=25% style="text-align:center;">"A soldier is dancing"</td>
+  <td width=25% style="text-align:center;color:gray;">"Input Video with point(first frame)"</td>
+  <td width=25% style="text-align:center;">"A man is dancing in skirt and wearing black stockings"</td>
   <td width=25% style="text-align:center;">"A man is dancing in jeans"</td>
   <td width=25% style="text-align:center;">"A man is dancing in shorts"</td>
 </tr>

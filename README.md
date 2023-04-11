@@ -45,6 +45,8 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 --- --- - Original--- --- --- With Mask - --- ---A man is dancing in jeans--- --- A man is dancing in shorts
 
 
+![overview](./assets/video/seg_02.png) **Figure 1.** An overview of the E-CEM detector. </div>
+
 
 ![overview](./assets/video/A man is dancing in jeans.gif) A man is dancing in jeans. </div>
 

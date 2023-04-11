@@ -16,7 +16,7 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 
 ## Image
 
-### Edit
+### Edit with point click
 The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.
 
 See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Using points to edit and control. Enjoy it! 
@@ -34,8 +34,10 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 
 
 ## Video
+
+### Edit with point click
 <img src="./assets/video/original.gif" width="200" alt=“original”/>  <img src="./assets/video/A soldier is dancing_crop.gif" width="200" />  <img src="./assets/video/Donald Trump is dancing_crop.gif" width="200"/> <img src="./assets/video/Iron Man is dancing_crop.gif" width="200"/>
---- --- --- Original--- --- --- --- --- A soldier is dancing - --- --- --- ---Donald Trump is dancing--- --- --- --- Iron Man is dancing
+--- --- --- Original--- --- --- --- A soldier is dancing - --- --- ---Donald Trump is dancing--- --- --- Iron Man is dancing
 
 
 

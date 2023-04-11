@@ -16,11 +16,11 @@ Based on [Segment Anything](https://github.com/facebookresearch/segment-anything
 
 
 ## Video
-![](./assets/original.gif)
-![](./assets/A soldier is dancing_crop.gif)
-![](./assets/A spaceman is dancing_crop.gif)
-![](./assets/Donald Trump is dancing_crop.gif)
-![](./assets/Iron Man is dancing_crop.gif)
+![](./assets/video/original.gif)
+![](./assets/video/A soldier is dancing_crop.gif)
+![](./assets/video/A spaceman is dancing_crop.gif)
+![](./assets/video/Donald Trump is dancing_crop.gif)
+![](./assets/video/Iron Man is dancing_crop.gif)
 
 
 ## Citation

@@ -13,7 +13,7 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 ### Edit
 The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.
 
-
+P
 ![](./assets/fig1.jpg)
 
 ### Object Merge

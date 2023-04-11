@@ -9,7 +9,6 @@ Based on [Segment Anything](https://github.com/facebookresearch/segment-anything
 - [ ] Multi object generation for complex scene with instance-condition controlnet 
 - [ ] Hugging Face Demo
 - [ ] ...
-- [ ] 
 
 
 ## Installation
@@ -23,14 +22,14 @@ The ultimate goal of this task is to achieve control over the generation of comp
 
 See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Using points to edit and control. Enjoy it! 
 
+<img src="./assets/fig1.jpg" width="400"/>
 
-![](./assets/fig1.jpg)
 
 ### Object Merge
-![](./assets/fig2.jpg)
+<img src="./assets/fig2.jpg" width="400"/>
 
 ### Object Remove
-![](./assets/fig3.jpg)
+<img src="./assets/fig3.jpg" width="400"/>
 
 ### Customization
 

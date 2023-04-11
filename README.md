@@ -45,10 +45,25 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 --- --- - Original--- --- --- With Mask - --- ---A man is dancing in jeans--- --- A man is dancing in shorts
 
 
-![overview](./assets/video/seg_02.png) **Figure 1.** An overview of the E-CEM detector. </div>
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td><img src="https://tuneavideo.github.io/assets/data/bear-guitar.gif"></td>
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/anything-v4/bear-guitar/1girl-streets.gif"></td>      
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/anything-v4/bear-guitar/1boy-indoor.gif"></td>
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/anything-v4/bear-guitar/1girl-beach.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A bear is playing guitar"</td>
+  <td width=25% style="text-align:center;">"1girl is playing guitar, white hair, medium hair, cat ears, closed eyes, cute, scarf, jacket, outdoors, streets"</td>
+  <td width=25% style="text-align:center;">"1boy is playing guitar, bishounen, casual, indoors, sitting, coffee shop, bokeh"</td>
+  <td width=25% style="text-align:center;">"1girl is playing guitar, red hair, long hair, beautiful eyes, looking at viewer, cute, dress, beach, sea"</td>
+</tr>
+</table>
 
-
-![overview](./assets/video/A man is dancing in jeans.gif) A man is dancing in jeans. </div>
 
 
 ## Citation

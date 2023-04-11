@@ -46,7 +46,7 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/original.gif"></td>
+  <td><img src="./assets/video/original.gif"></td>
   <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/A soldier is dancing_crop.gif"></td>      
   <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/Donald Trump is dancing_crop.gif"></td>
   <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/Iron Man is dancing_crop.gif"></td>

@@ -1,9 +1,19 @@
 # ShowAnything
 Based on [Segment Anything](https://github.com/facebookresearch/segment-anything), we plan to create a very interesting project for image, video generation and editing.
 
+**Motivation of this repo**: Segment Anything offers powerful perception capabilities and interfaces with points and boxes. We believe that the interface ability has the potential to greatly drive the development of generation and editing applications. We will be posting some application developments from our lab here that are compatible with both Segment Anything and Generation, thanks.
+ 
+
+## Installation
+Please follow the [segment anything](https://github.com/facebookresearch/segment-anything#model-checkpoints) to creating the environment and download the model checkpoint (vit_l, vit_l or vit_b)
+
+
 ## Image
 
 ### Edit
+The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.
+
+
 ![](./assets/fig1.jpg)
 
 ### Object Merge

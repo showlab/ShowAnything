@@ -6,7 +6,6 @@ Based on [Segment Anything](https://github.com/facebookresearch/segment-anything
 ## ToDo
 - [ ] Customization (Lora or dreambooth)
 - [ ] Video editing with point interaction
-- [ ] Multi object generation for complex scene with instance-condition controlnet 
 - [ ] Hugging Face Demo
 - [ ] ...
 
@@ -36,7 +35,7 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 
 ## Video
 <img src="./assets/video/original.gif" width="200"/>  <img src="./assets/video/A soldier is dancing_crop.gif" width="200"/>  <img src="./assets/video/Donald Trump is dancing_crop.gif" width="200"/> <img src="./assets/video/Iron Man is dancing_crop.gif" width="200"/>
-original    A soldier is dancing     Donald Trump is dancing      Iron Man is dancing
+original  &nbsp;  &nbsp; A soldier is dancing  &nbsp;  &nbsp; Donald Trump is dancing   &nbsp; &nbsp;   Iron Man is dancing
 
 
 

@@ -19,7 +19,7 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 ### Edit with point click
 The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.
 
-See the [here](./ImageEidt). Using points to edit and control. Enjoy it! 
+See the [here](./ImageEdit). Using points to edit and control. Enjoy it! 
 
 <img src="./assets/fig1.jpg" width="500"/>
 

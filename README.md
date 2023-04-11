@@ -1,3 +1,9 @@
+
+<p align="center">
+<img src="./assets/1681232055007.jpg" width="1080px"/>  
+<br>
+</p>
+
 # ShowAnything
 Based on [Segment Anything](https://github.com/facebookresearch/segment-anything), we plan to create a very interesting project for image, video generation and editing.
 

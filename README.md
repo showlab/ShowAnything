@@ -34,8 +34,8 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 
 
 ## Video
-<img src="./assets/video/original.gif" width="200" alt=“original”/>  <img src="./assets/video/A soldier is dancing_crop.gif" alt=“A soldier is dancing” width="200"/>  <img src="./assets/video/Donald Trump is dancing_crop.gif" width="200"/> <img src="./assets/video/Iron Man is dancing_crop.gif" width="200"/>
-original  &nbsp;  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;A soldier is dancing  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Donald Trump is dancing   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  Iron Man is dancing
+<img src="./assets/video/original.gif" width="200" alt=“original”/>  <img src="./assets/video/A soldier is dancing_crop.gif" width="200" alt=“A soldier is dancing” />  <img src="./assets/video/Donald Trump is dancing_crop.gif" width="200" alt=“Donald Trump is dancing ” /> <img src="./assets/video/Iron Man is dancing_crop.gif" width="200" alt=“Iron Man is dancing”/>
+
 
 
 

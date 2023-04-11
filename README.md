@@ -19,7 +19,7 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 ### Edit with point click
 The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.
 
-See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Using points to edit and control. Enjoy it! 
+See the [here](./ImageEidt). Using points to edit and control. Enjoy it! 
 
 <img src="./assets/fig1.jpg" width="500"/>
 
@@ -47,9 +47,9 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
 </tr>
 <tr>
   <td><img src="./assets/video/original.gif"></td>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/A soldier is dancing_crop.gif"></td>      
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/Donald Trump is dancing_crop.gif"></td>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/Iron Man is dancing_crop.gif"></td>
+  <td><img src="./assets/video/A soldier is dancing_crop.gif"></td>      
+  <td><img src="./assets/video/Donald Trump is dancing_crop.gif"></td>
+  <td><img src="./assets/video/Iron Man is dancing_crop.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"Input Video with point"</td>
@@ -74,10 +74,10 @@ See the [here](https://github.com/showlab/ShowAnything/tree/main/ImageEidt). Usi
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/seg_02.png"></td>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/seg_02_result.png"></td>      
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/A man is dancing in jeans.gif"></td>
-  <td><img src="https://github.com/showlab/ShowAnything/tree/main/assets/video/A man is dancing in shorts.gif"></td>
+  <td><img src="./assets/video/seg_02.png"></td>
+  <td><img src="./assets/video/seg_02_result.png"></td>      
+  <td><img src="./assets/video/A man is dancing in jeans.gif"></td>
+  <td><img src="./assets/video/A man is dancing in shorts.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"Input Video with point"</td>

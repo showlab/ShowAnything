@@ -41,14 +41,28 @@ The ultimate goal of this task is to achieve control over the generation of comp
 
 See the [here](./ImageEdit). Using points to edit and control. Enjoy it! 
 
-<img src="./assets/fig1.jpg" width="500"/>
+
+<p align="center">
+<img src="./assets/fig1.jpg" width="700px"/>  
+<br>
+</p>
 
 
 ### Object Merge
-<img src="./assets/fig2.jpg" width="500"/>
+
+
+<p align="center">
+<img src="./assets/fig2.jpg" width="700px"/>  
+<br>
+</p>
+
 
 ### Object Remove
-<img src="./assets/fig3.jpg" width="500"/>
+
+<p align="center">
+<img src="./assets/fig3.jpg" width="700px"/>  
+<br>
+</p>
 
 ### Customization
 

@@ -24,8 +24,8 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 
 Hugging Face Demo is coming!
 
-<img src="./assets/1681314820494.jpg" width="600"/>
-<img src="./assets/1681315392343.jpg" width="600"/>
+<img src="./assets/1681314820494.jpg" width="600" class="aligncenter"/>
+<img src="./assets/1681315392343.jpg" width="600" class="aligncenter"/>
 
 ### Edit with point click
 The ultimate goal of this task is to achieve control over the generation of complex scenes, such as dense crowds and department stores.

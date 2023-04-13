@@ -43,7 +43,7 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 
 
 <p align="center">
-<img src="./assets/fig1.jpg" width="700px"/>  
+<img src="./assets/fig1.png" width="700px"/>  
 <br>
 </p>
 
@@ -52,7 +52,7 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 
 
 <p align="center">
-<img src="./assets/fig2.jpg" width="700px"/>  
+<img src="./assets/fig2.png" width="700px"/>  
 <br>
 </p>
 
@@ -60,7 +60,7 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 ### Object Remove
 
 <p align="center">
-<img src="./assets/fig3.jpg" width="700px"/>  
+<img src="./assets/fig3.png" width="700px"/>  
 <br>
 </p>
 

@@ -64,22 +64,19 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 <br>
 </p>
 
-### Customization
+## Video
 
-
-## Transform Image Into Unique Paragraph
-Image to paragraph is available, please refer to [Image2Paragraph](https://github.com/showlab/Image2Paragraph), and enjoy!
-
+### Zero-shot Editing Anything in Any Video
 
 <p align="center">
-<img src="./assets/1681360400667.jpg" width="700px"/>  
+<img src="./assets/video/showcase_1.gif" width="700px"/>  
 <br>
 </p>
 
-## Video
-
-### Edit with point click
-
+<p align="center">
+<img src="./assets/video/showcase_2.gif" width="700px"/>  
+<br>
+</p>
 
 <table class="center">
 <tr>
@@ -93,21 +90,12 @@ Image to paragraph is available, please refer to [Image2Paragraph](https://githu
   <td><img src="./assets/video/Iron Man is dancing_crop.gif"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"Input Video with point"</td>
+  <td width=25% style="text-align:center;color:gray;">"Input Video"</td>
   <td width=25% style="text-align:center;">"A soldier is dancing"</td>
   <td width=25% style="text-align:center;">"Donald Trump is dancing"</td>
   <td width=25% style="text-align:center;">"Iron Man is dancing"</td>
 </tr>
 </table>
-
-
-
-### Video interactive fashion-edit with point click
-
-
-
-
-
 
 <table class="center">
 <tr>
@@ -115,19 +103,28 @@ Image to paragraph is available, please refer to [Image2Paragraph](https://githu
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="./assets/video/seg_02_result.png"></td>
+  <td><img src="./assets/video/original.gif"></td>
   <td><img src="./assets/video/A man is dancing in skirt and wearing black stockings.gif"></td>      
   <td><img src="./assets/video/A man is dancing in jeans.gif"></td>
   <td><img src="./assets/video/A man is dancing in shorts.gif"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"Input Video with point(first frame)"</td>
+  <td width=25% style="text-align:center;color:gray;">"Input Video"</td>
   <td width=25% style="text-align:center;">"A man is dancing in skirt and wearing black stockings"</td>
   <td width=25% style="text-align:center;">"A man is dancing in jeans"</td>
   <td width=25% style="text-align:center;">"A man is dancing in shorts"</td>
 </tr>
 </table>
 
+
+## Transform Image Into Unique Paragraph
+Image to paragraph is available, please refer to [Image2Paragraph](https://github.com/showlab/Image2Paragraph), and enjoy!
+
+
+<p align="center">
+<img src="./assets/1681360400667.jpg" width="700px"/>  
+<br>
+</p>
 
 
 

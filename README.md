@@ -68,15 +68,21 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 
 ### Zero-shot Editing Anything in Any Video
 
+Replace the person in the video: 
+
 <p align="center">
 <img src="./assets/video/showcase_1.gif" width="700px"/>  
 <br>
 </p>
 
+Customize the clothes of the person in the video:
+
 <p align="center">
 <img src="./assets/video/showcase_2.gif" width="700px"/>  
 <br>
 </p>
+
+More results:
 
 <table class="center">
 <tr>

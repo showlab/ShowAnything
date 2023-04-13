@@ -22,7 +22,7 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 
 ## Image
 
-Hugging Face Demo is coming!
+[Hugging Face Demo](https://huggingface.co/spaces/weijiawu/ImageEditAnything) is now available, but please note that it may run slowly due to being currently executed on a low-end CPU.
 
 
 <p align="center">

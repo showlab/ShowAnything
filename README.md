@@ -26,14 +26,11 @@ Please follow the [segment anything](https://github.com/facebookresearch/segment
 
 
 <p align="center">
-<img src="./assets/1681314820494.jpg" width="700px"/>  
+<img src="./assets/1681314820494.jpg" width="800px"/>  
 <br>
 </p>
 
-<p align="center">
-<img src="./assets/1681315392343.jpg" width="700px"/>  
-<br>
-</p>
+
 
 
 ### Edit with point click

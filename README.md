@@ -67,6 +67,15 @@ See the [here](./ImageEdit). Using points to edit and control. Enjoy it!
 ### Customization
 
 
+## Transform Image Into Unique Paragraph
+Image to paragraph is available, please refer to [Image2Paragraph](https://github.com/showlab/Image2Paragraph), and enjoy!
+
+
+<p align="center">
+<img src="./assets/1681360400667.jpg" width="700px"/>  
+<br>
+</p>
+
 ## Video
 
 ### Edit with point click

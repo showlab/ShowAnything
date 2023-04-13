@@ -5,9 +5,9 @@
 </p>
 
 # ShowAnything
-Based on [Segment Anything](https://github.com/facebookresearch/segment-anything), we plan to create a very interesting project for image, video generation and editing.
+Edit and Generate Anything In Any Image and Video.
 
-**Motivation of this repo**: Segment Anything offers powerful perception capabilities and interfaces with points and boxes. We believe that the interface ability has the potential to greatly drive the development of generation and editing applications. We will be posting some application developments from our lab here that are compatible with both Segment Anything and Generation, thanks.
+**Motivation of this repo**: [Segment Anything](https://github.com/facebookresearch/segment-anything) offers powerful perception capabilities and interfaces with points and boxes. We believe that the interface ability has the potential to greatly drive the development of generation and editing applications. We will be posting some application developments from our lab here that are compatible with both Segment Anything and Generation, thanks.
  
 ## ToDo
 - [ ] Customization (Lora or dreambooth)

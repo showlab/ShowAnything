@@ -75,6 +75,11 @@ Replace the person in the video:
 Customize the clothes of the person in the video:
 
 <p align="center">
+<img src="./assets/video/showcase_3.gif" width="700px"/>  
+<br>
+</p>
+
+<p align="center">
 <img src="./assets/video/showcase_2.gif" width="700px"/>  
 <br>
 </p>

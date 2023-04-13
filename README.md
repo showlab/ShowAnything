@@ -132,7 +132,10 @@ Image to paragraph is available, please refer to [Image2Paragraph](https://githu
 <br>
 </p>
 
-
+## Acknowledgements
+- [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [Caption-Anything](https://github.com/ttengwang/Caption-Anything) (hugging face demo)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.

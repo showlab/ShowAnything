@@ -134,6 +134,14 @@ Image to paragraph is available, please refer to [Image2Paragraph](https://githu
 <br>
 </p>
 
+
+## Segment Anything for 3D
+Image to 3D using SAM is available, please refer to [Anything3D](https://github.com/showlab/Show-Anything-3D), and enjoy!
+
+https://user-images.githubusercontent.com/37300524/232232693-ad3b0329-ab83-48e1-8f7e-dca9dff7b32e.mp4
+
+
+
 ## Acknowledgements
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [Caption-Anything](https://github.com/ttengwang/Caption-Anything) (hugging face demo)
